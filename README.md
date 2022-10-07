@@ -30,8 +30,8 @@
 ## 🤝 Major Contributions
 
 - GitLab
-  - [GPG signed commits](https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/9546)
-  - [Shared CI runners for groups](https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/9646)
+  - [GPG signed commits](https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/9546) for which I got rewarded [MVP 🏆](https://about.gitlab.com/releases/2017/08/22/gitlab-9-5-released/#mvp)
+  - [Shared CI runners for groups](https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/9646)  for which I got rewarded [MVP 🏆](https://about.gitlab.com/releases/2018/05/22/gitlab-10-8-released/#mvp)
   - [Customizable favicon](https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/14497)
   - [Display and revoke active sessions](https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/17867)
   - [Add users search results to global search](https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/21197)
