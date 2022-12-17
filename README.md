@@ -48,7 +48,7 @@
 - [Blog](https://www.koffeinfrei.org/)
 - [GitHub](https://github.com/koffeinfrei)
 - [GitLab](https://gitlab.com/koffeinfrei)
-- [Mastodon](https://mastodon.social/@koffeinfrei)
+- <a rel="me" href="https://mastodon.social/@koffeinfrei">Mastodon</a>
 - [Twitter](twitter.com/alexisreigel)
 
 
