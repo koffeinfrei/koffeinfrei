@@ -13,7 +13,7 @@
 
 - [Should I Watch This?](https://github.com/koffeinfrei/should-i-watch-this)    
   Tool to tell if it's worth watching a movie or show
-- [Punch Card](https://github.com/panter/mykonote)    
+- [Punch Card](https://github.com/koffeinfrei/punch-card)    
   Simple CLI to track your work time
 - [Bash prompt](https://github.com/koffeinfrei/bash-prompt)    
   Clean and minimal bash prompt written in pure bash script
