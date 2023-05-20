@@ -4,7 +4,7 @@
 
 - [Should I Watch This?](https://github.com/koffeinfrei/should-i-watch-this)    
   Tool to tell if it's worth watching a movie or show
-- [Mykonote](https://github.com/panter/mykonote)    
+- [Mykonote](https://github.com/koffeinfrei/mykonote)    
   Note taking web and mobile app
 - [Metaflop](https://github.com/metaflop/metaflop-www)    
   Web application for modulating your own METAFONTs
