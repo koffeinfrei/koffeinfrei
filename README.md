@@ -49,7 +49,7 @@
 - [GitHub](https://github.com/koffeinfrei)
 - [GitLab](https://gitlab.com/koffeinfrei)
 - <a rel="me" href="https://mastodon.social/@koffeinfrei">Mastodon</a>
-- [Twitter](twitter.com/alexisreigel)
+- [Twitter](https://twitter.com/alexisreigel)
 
 
 <!--
