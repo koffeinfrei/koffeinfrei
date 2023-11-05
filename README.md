@@ -8,6 +8,8 @@
   Note taking web and mobile app
 - [Metaflop](https://github.com/metaflop/metaflop-www)    
   Web application for modulating your own METAFONTs
+- [Advent Calendar](https://github.com/koffeinfrei/advent-calendar)
+  Web based advent calendar
 
 ### 💻 CLIs / Terminal
 
